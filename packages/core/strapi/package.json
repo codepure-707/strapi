@@ -145,7 +145,7 @@
     "dotenv": "16.4.5",
     "esbuild-loader": "4.3.0",
     "esbuild-register": "3.5.0",
-    "execa": "5.1.1",
+    "execa": "9.6.0",
     "fork-ts-checker-webpack-plugin": "8.0.0",
     "fs-extra": "11.2.0",
     "get-latest-version": "5.1.0",
