@@ -110,7 +110,7 @@
   },
   "dependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.15",
-    "@strapi/admin": "5.13.0",
+    "@strapi/admin": "4.0.0",
     "@strapi/cloud-cli": "5.13.0",
     "@strapi/content-manager": "5.13.0",
     "@strapi/content-releases": "5.13.0",
