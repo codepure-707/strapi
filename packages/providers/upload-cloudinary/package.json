@@ -44,8 +44,8 @@
     "watch": "run -T rollup -c -w"
   },
   "dependencies": {
-    "@strapi/utils": "5.13.0",
-    "cloudinary": "^1.41.0",
+    "@strapi/utils": "4.0.0",
+    "cloudinary": "^2.7.0",
     "into-stream": "^5.1.0"
   },
   "devDependencies": {
