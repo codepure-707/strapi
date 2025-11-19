@@ -43,7 +43,7 @@
     "watch": "run -T rollup -c -w"
   },
   "dependencies": {
-    "@strapi/utils": "5.13.0",
+    "@strapi/utils": "4.0.0",
     "sendmail": "^1.6.1"
   },
   "devDependencies": {
